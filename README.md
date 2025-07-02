@@ -1,6 +1,6 @@
 ### Olá pessoas 👋
 
-Meu nome é Vinicius e estou me especializando em desenvolvimento Front-End
+Meu nome é Vinicius, tenho 29 anos e atualmente atuo como Instrutor de Programação para crianças e adolescentes pela SuperGeeks. Atuo tanto como Desenvolvedor Web quando Desenvolvedor de Jogos.
 
 <div align="center">
   <a href="https://github.com/vinideev">
